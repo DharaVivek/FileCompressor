@@ -1,0 +1,13 @@
+.container {
+  background-color: #adbbf9;
+  border-radius: 8px;
+  border-color: blue;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(63, 62, 62, 0.1);
+  text-align: center;
+  width: 600;
+}
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
